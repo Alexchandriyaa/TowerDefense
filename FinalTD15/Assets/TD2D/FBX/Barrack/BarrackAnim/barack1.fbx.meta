@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 94626954b473d5f41b93b5481eb5e624
+timeCreated: 1500548170
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' 01.psd'
+    100002: axe|2
+    100004: B1
+    100006: B10
+    100008: B11
+    100010: B12
+    100012: B13
+    100014: B14
+    100016: B15
+    100018: B16
+    100020: B17
+    100022: B18
+    100024: B19
+    100026: B2
+    100028: B20
+    100030: B21
+    100032: B3
+    100034: B4
+    100036: B5
+    100038: B6
+    100040: B7
+    100042: B8
+    100044: B9
+    100046: back_arm|3
+    100048: back_leg|0
+    100050: //RootNode
+    100052: body|4
+    100054: front_arm|5
+    100056: front_leg|1
+    100058: head|6
+    100060: Moho Camera
+    100062: peasant
+    400000: ' 01.psd'
+    400002: axe|2
+    400004: B1
+    400006: B10
+    400008: B11
+    400010: B12
+    400012: B13
+    400014: B14
+    400016: B15
+    400018: B16
+    400020: B17
+    400022: B18
+    400024: B19
+    400026: B2
+    400028: B20
+    400030: B21
+    400032: B3
+    400034: B4
+    400036: B5
+    400038: B6
+    400040: B7
+    400042: B8
+    400044: B9
+    400046: back_arm|3
+    400048: back_leg|0
+    400050: //RootNode
+    400052: body|4
+    400054: front_arm|5
+    400056: front_leg|1
+    400058: head|6
+    400060: Moho Camera
+    400062: peasant
+    2300000: axe|2
+    2300002: back_arm|3
+    2300004: back_leg|0
+    2300006: body|4
+    2300008: front_arm|5
+    2300010: front_leg|1
+    2300012: head|6
+    3300000: axe|2
+    3300002: back_arm|3
+    3300004: back_leg|0
+    3300006: body|4
+    3300008: front_arm|5
+    3300010: front_leg|1
+    3300012: head|6
+    4300000: back_leg|0
+    4300002: front_leg|1
+    4300004: axe|2
+    4300006: back_arm|3
+    4300008: body|4
+    4300010: front_arm|5
+    4300012: head|6
+    7400000: Mainline
+    7400002: idle
+    7400004: move
+    7400006: attack
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: axe|2
+    13700002: back_arm|3
+    13700004: back_leg|0
+    13700006: body|4
+    13700008: front_arm|5
+    13700010: front_leg|1
+    13700012: head|6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Mainline
+      takeName: Mainline
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ' 01.psd'
+        weight: 1
+      - path: ' 01.psd/B1'
+        weight: 1
+      - path: ' 01.psd/B1/B2'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18/B16'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18/B17'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B10'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B10/B11'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13/B14'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13/B14/B15'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B19'
+        weight: 1
+      - path: ' 01.psd/B1/B4'
+        weight: 1
+      - path: ' 01.psd/B1/B4/B5'
+        weight: 1
+      - path: ' 01.psd/B1/B4/B5/B6'
+        weight: 1
+      - path: ' 01.psd/B1/B7'
+        weight: 1
+      - path: ' 01.psd/B1/B7/B8'
+        weight: 1
+      - path: ' 01.psd/B1/B7/B8/B9'
+        weight: 1
+      - path: ' 01.psd/B20'
+        weight: 1
+      - path: ' 01.psd/B21'
+        weight: 1
+      - path: ' 01.psd/peasant'
+        weight: 1
+      - path: ' 01.psd/peasant/axe|2'
+        weight: 1
+      - path: ' 01.psd/peasant/back_arm|3'
+        weight: 1
+      - path: ' 01.psd/peasant/back_leg|0'
+        weight: 1
+      - path: ' 01.psd/peasant/body|4'
+        weight: 1
+      - path: ' 01.psd/peasant/front_arm|5'
+        weight: 1
+      - path: ' 01.psd/peasant/front_leg|1'
+        weight: 1
+      - path: ' 01.psd/peasant/head|6'
+        weight: 1
+      - path: Moho Camera
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ' 01.psd'
+        weight: 1
+      - path: ' 01.psd/B1'
+        weight: 1
+      - path: ' 01.psd/B1/B2'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18/B16'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18/B17'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B10'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B10/B11'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13/B14'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13/B14/B15'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B19'
+        weight: 1
+      - path: ' 01.psd/B1/B4'
+        weight: 1
+      - path: ' 01.psd/B1/B4/B5'
+        weight: 1
+      - path: ' 01.psd/B1/B4/B5/B6'
+        weight: 1
+      - path: ' 01.psd/B1/B7'
+        weight: 1
+      - path: ' 01.psd/B1/B7/B8'
+        weight: 1
+      - path: ' 01.psd/B1/B7/B8/B9'
+        weight: 1
+      - path: ' 01.psd/B20'
+        weight: 1
+      - path: ' 01.psd/B21'
+        weight: 1
+      - path: ' 01.psd/peasant'
+        weight: 1
+      - path: ' 01.psd/peasant/axe|2'
+        weight: 1
+      - path: ' 01.psd/peasant/back_arm|3'
+        weight: 1
+      - path: ' 01.psd/peasant/back_leg|0'
+        weight: 1
+      - path: ' 01.psd/peasant/body|4'
+        weight: 1
+      - path: ' 01.psd/peasant/front_arm|5'
+        weight: 1
+      - path: ' 01.psd/peasant/front_leg|1'
+        weight: 1
+      - path: ' 01.psd/peasant/head|6'
+        weight: 1
+      - path: Moho Camera
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: move
+      takeName: move
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ' 01.psd'
+        weight: 1
+      - path: ' 01.psd/B1'
+        weight: 1
+      - path: ' 01.psd/B1/B2'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18/B16'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18/B17'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B10'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B10/B11'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13/B14'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13/B14/B15'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B19'
+        weight: 1
+      - path: ' 01.psd/B1/B4'
+        weight: 1
+      - path: ' 01.psd/B1/B4/B5'
+        weight: 1
+      - path: ' 01.psd/B1/B4/B5/B6'
+        weight: 1
+      - path: ' 01.psd/B1/B7'
+        weight: 1
+      - path: ' 01.psd/B1/B7/B8'
+        weight: 1
+      - path: ' 01.psd/B1/B7/B8/B9'
+        weight: 1
+      - path: ' 01.psd/B20'
+        weight: 1
+      - path: ' 01.psd/B21'
+        weight: 1
+      - path: ' 01.psd/peasant'
+        weight: 1
+      - path: ' 01.psd/peasant/axe|2'
+        weight: 1
+      - path: ' 01.psd/peasant/back_arm|3'
+        weight: 1
+      - path: ' 01.psd/peasant/back_leg|0'
+        weight: 1
+      - path: ' 01.psd/peasant/body|4'
+        weight: 1
+      - path: ' 01.psd/peasant/front_arm|5'
+        weight: 1
+      - path: ' 01.psd/peasant/front_leg|1'
+        weight: 1
+      - path: ' 01.psd/peasant/head|6'
+        weight: 1
+      - path: Moho Camera
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: attack
+      firstFrame: 1
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ' 01.psd'
+        weight: 1
+      - path: ' 01.psd/B1'
+        weight: 1
+      - path: ' 01.psd/B1/B2'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18/B16'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B3/B18/B17'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B10'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B10/B11'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13/B14'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B12/B13/B14/B15'
+        weight: 1
+      - path: ' 01.psd/B1/B2/B19'
+        weight: 1
+      - path: ' 01.psd/B1/B4'
+        weight: 1
+      - path: ' 01.psd/B1/B4/B5'
+        weight: 1
+      - path: ' 01.psd/B1/B4/B5/B6'
+        weight: 1
+      - path: ' 01.psd/B1/B7'
+        weight: 1
+      - path: ' 01.psd/B1/B7/B8'
+        weight: 1
+      - path: ' 01.psd/B1/B7/B8/B9'
+        weight: 1
+      - path: ' 01.psd/B20'
+        weight: 1
+      - path: ' 01.psd/B21'
+        weight: 1
+      - path: ' 01.psd/peasant'
+        weight: 1
+      - path: ' 01.psd/peasant/axe|2'
+        weight: 1
+      - path: ' 01.psd/peasant/back_arm|3'
+        weight: 1
+      - path: ' 01.psd/peasant/back_leg|0'
+        weight: 1
+      - path: ' 01.psd/peasant/body|4'
+        weight: 1
+      - path: ' 01.psd/peasant/front_arm|5'
+        weight: 1
+      - path: ' 01.psd/peasant/front_leg|1'
+        weight: 1
+      - path: ' 01.psd/peasant/head|6'
+        weight: 1
+      - path: Moho Camera
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

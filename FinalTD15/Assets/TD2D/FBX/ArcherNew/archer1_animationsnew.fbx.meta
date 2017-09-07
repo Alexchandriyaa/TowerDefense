@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 6e1ed29753ad60c47a19e3adebccc3fe
+timeCreated: 1501497124
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: archer1-01.psd
+    100002: //RootNode
+    100004: arrow|0
+    100006: arws|8
+    100008: B1
+    100010: B10
+    100012: B11
+    100014: B12
+    100016: B13
+    100018: B2
+    100020: B3
+    100022: B4
+    100024: B5
+    100026: B6
+    100028: B7
+    100030: B8
+    100032: B9
+    100034: bk_arm|3
+    100036: bk_leg|4
+    100038: body|6
+    100040: bow|1
+    100042: f_arm|9
+    100044: f_leg|5
+    100046: head|7
+    100048: Moho Camera
+    100050: string|2
+    400000: archer1-01.psd
+    400002: //RootNode
+    400004: arrow|0
+    400006: arws|8
+    400008: B1
+    400010: B10
+    400012: B11
+    400014: B12
+    400016: B13
+    400018: B2
+    400020: B3
+    400022: B4
+    400024: B5
+    400026: B6
+    400028: B7
+    400030: B8
+    400032: B9
+    400034: bk_arm|3
+    400036: bk_leg|4
+    400038: body|6
+    400040: bow|1
+    400042: f_arm|9
+    400044: f_leg|5
+    400046: head|7
+    400048: Moho Camera
+    400050: string|2
+    4300000: arrow|0
+    4300002: bow|1
+    4300004: string|2
+    4300006: bk_arm|3
+    4300008: bk_leg|4
+    4300010: f_leg|5
+    4300012: body|6
+    4300014: head|7
+    4300016: arws|8
+    4300018: f_arm|9
+    7400000: Mainline
+    7400002: shoot_left
+    7400004: idle
+    7400006: shoot_right
+    9500000: //RootNode
+    13700000: arrow|0
+    13700002: arws|8
+    13700004: bk_arm|3
+    13700006: bk_leg|4
+    13700008: body|6
+    13700010: bow|1
+    13700012: f_arm|9
+    13700014: f_leg|5
+    13700016: head|7
+    13700018: string|2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Mainline
+      takeName: Mainline
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: archer1-01.psd
+        weight: 1
+      - path: archer1-01.psd/arrow|0
+        weight: 1
+      - path: archer1-01.psd/arws|8
+        weight: 1
+      - path: archer1-01.psd/B13
+        weight: 1
+      - path: archer1-01.psd/B13/B1
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B3
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7/B8
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7/B8/B9
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10/B11
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10/B11/B12
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B6
+        weight: 1
+      - path: archer1-01.psd/bk_arm|3
+        weight: 1
+      - path: archer1-01.psd/bk_leg|4
+        weight: 1
+      - path: archer1-01.psd/body|6
+        weight: 1
+      - path: archer1-01.psd/bow|1
+        weight: 1
+      - path: archer1-01.psd/f_arm|9
+        weight: 1
+      - path: archer1-01.psd/f_leg|5
+        weight: 1
+      - path: archer1-01.psd/head|7
+        weight: 1
+      - path: archer1-01.psd/string|2
+        weight: 1
+      - path: Moho Camera
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: shoot_left
+      takeName: shoot_left
+      firstFrame: 1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: archer1-01.psd
+        weight: 1
+      - path: archer1-01.psd/arrow|0
+        weight: 1
+      - path: archer1-01.psd/arws|8
+        weight: 1
+      - path: archer1-01.psd/B13
+        weight: 1
+      - path: archer1-01.psd/B13/B1
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B3
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7/B8
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7/B8/B9
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10/B11
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10/B11/B12
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B6
+        weight: 1
+      - path: archer1-01.psd/bk_arm|3
+        weight: 1
+      - path: archer1-01.psd/bk_leg|4
+        weight: 1
+      - path: archer1-01.psd/body|6
+        weight: 1
+      - path: archer1-01.psd/bow|1
+        weight: 1
+      - path: archer1-01.psd/f_arm|9
+        weight: 1
+      - path: archer1-01.psd/f_leg|5
+        weight: 1
+      - path: archer1-01.psd/head|7
+        weight: 1
+      - path: archer1-01.psd/string|2
+        weight: 1
+      - path: Moho Camera
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: archer1-01.psd
+        weight: 1
+      - path: archer1-01.psd/arrow|0
+        weight: 1
+      - path: archer1-01.psd/arws|8
+        weight: 1
+      - path: archer1-01.psd/B13
+        weight: 1
+      - path: archer1-01.psd/B13/B1
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B3
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7/B8
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7/B8/B9
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10/B11
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10/B11/B12
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B6
+        weight: 1
+      - path: archer1-01.psd/bk_arm|3
+        weight: 1
+      - path: archer1-01.psd/bk_leg|4
+        weight: 1
+      - path: archer1-01.psd/body|6
+        weight: 1
+      - path: archer1-01.psd/bow|1
+        weight: 1
+      - path: archer1-01.psd/f_arm|9
+        weight: 1
+      - path: archer1-01.psd/f_leg|5
+        weight: 1
+      - path: archer1-01.psd/head|7
+        weight: 1
+      - path: archer1-01.psd/string|2
+        weight: 1
+      - path: Moho Camera
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: shoot_right
+      takeName: shoot_right
+      firstFrame: 1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: archer1-01.psd
+        weight: 1
+      - path: archer1-01.psd/arrow|0
+        weight: 1
+      - path: archer1-01.psd/arws|8
+        weight: 1
+      - path: archer1-01.psd/B13
+        weight: 1
+      - path: archer1-01.psd/B13/B1
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B3
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7/B8
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B7/B8/B9
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10/B11
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B4/B5/B10/B11/B12
+        weight: 1
+      - path: archer1-01.psd/B13/B1/B2/B6
+        weight: 1
+      - path: archer1-01.psd/bk_arm|3
+        weight: 1
+      - path: archer1-01.psd/bk_leg|4
+        weight: 1
+      - path: archer1-01.psd/body|6
+        weight: 1
+      - path: archer1-01.psd/bow|1
+        weight: 1
+      - path: archer1-01.psd/f_arm|9
+        weight: 1
+      - path: archer1-01.psd/f_leg|5
+        weight: 1
+      - path: archer1-01.psd/head|7
+        weight: 1
+      - path: archer1-01.psd/string|2
+        weight: 1
+      - path: Moho Camera
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

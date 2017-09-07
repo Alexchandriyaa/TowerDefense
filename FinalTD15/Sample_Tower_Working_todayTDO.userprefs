@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TD2D\Scripts\Inspector\BuildingPlaceInspector.cs">
+    <Files>
+      <File FileName="Assets\TD2D\Scripts\Inspector\BuildingPlaceInspector.cs" Line="9" Column="14" />
+      <File FileName="Assets\TD2D\Scripts\Inspector\LevelChooseInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets\TD2D\Scripts\Inspector\LevelDescriptionInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets\TD2D\Scripts\Inspector\LevelManagerInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets\TD2D\Scripts\Inspector\MapFolderInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets\TD2D\Scripts\Inspector\PathwayInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets\TD2D\Scripts\Inspector\PathwaysFolderInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets\TD2D\Scripts\Inspector\SpawnPointInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets\TD2D\Scripts\Inspector\TowerActionsInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets\TD2D\Scripts\Inspector\TowersFolderInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets\TD2D\Scripts\Editor\TD2D.cs" Line="37" Column="18" />
+      <File FileName="Assets\TD2D\Scripts\Gameplay\Ai\States\AiStatePatrol.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
